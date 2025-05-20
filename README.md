@@ -5,7 +5,7 @@
 
 <h1 align="center">Olá, eu sou o Douglas 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200" alt="Wave"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdmYmkycjU1bXY3ZmI0ZHQ2MW1vbTNrcG1lZXM1amFqbWFpdzFpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" width="200" alt="Wave"/>
 </p>
 
 
